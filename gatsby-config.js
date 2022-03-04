@@ -67,7 +67,7 @@ module.exports = {
     //     // Any additional optional fields
     //     sampleRate: 5,
     //     siteSpeedSampleRate: 10,
-    //     cookieDomain: 'example.com',
+    //     cookieDomain: 'mahatech.net',
     //   },
     // },
     // {
@@ -79,8 +79,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://www.example.com',
-        sitemap: 'https://www.example.com/sitemap.xml',
+        host: 'https://www.mahatech.net',
+        sitemap: 'https://www.mahatech.net/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }],
       },
     },
