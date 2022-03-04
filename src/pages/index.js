@@ -1,7 +1,7 @@
 import React from 'react';
 import 'swiper/swiper-bundle.min.css';
 import 'rc-drawer/assets/index.css';
-import 'react-modal-video/css/modal-video.min.css';
+// import 'react-modal-video/css/modal-video.min.css';
 
 import { StickyProvider } from 'contexts/app/app.provider';
 import SEO from 'components/seo';
@@ -24,7 +24,7 @@ export default function IndexPage() {
         <Banner />
         <Services />
         <BoostAgencies />
-        <VideoOne />
+        {/* <VideoOne /> */}
         <Testimonials />
         <CustomerSupport />
         <Feature />
