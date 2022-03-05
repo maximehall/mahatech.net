@@ -13,18 +13,15 @@ const CustomerSupport = () => {
           <Box sx={styles.col}>
             <Box sx={styles.content}>
               <Heading as="h3">
-                Free Customer Support to ensure what you like to expect
+                IT Consulting just like you expect
               </Heading>
               <Text as="p">
-                We offer a risk-free trial period of up to two weeks. You will
-                only have to pay if you are happy with the developer and wish to
-                continue. If you are unsatisfied, we’ll refund payment or fix
-                issues on our dime period customers.
+                We offer Technical Project Management to lead your projects from Build to Run, with high control on budget, workload and planning.  
               </Text>
-              <Text as="p" sx={styles.specialText}>
+              {/* <Text as="p" sx={styles.specialText}>
                 If you are happy with the developer and wish to continue. If you
                 are unsatisfied, we’ll refund payment or fix issues.
-              </Text>
+              </Text> */}
               <Link path="/" sx={styles.link}>
                 Learn more <FaAngleRight />
               </Link>

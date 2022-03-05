@@ -85,7 +85,7 @@ const Feature = () => {
     <Box sx={styles.features} id="news">
       <Container>
         <BlockTitle
-          slogan="Quality features"
+          slogan="Discover our offers"
           title="Tutorials that people love most"
           styles={styles.blockTitle}
         />

@@ -12,7 +12,7 @@ import Services from 'sections/services';
 import Testimonials from 'sections/testimonials';
 import CustomerSupport from 'sections/customer-support';
 import Feature from 'sections/feature';
-import VideoOne from 'sections/video-one';
+// import VideoOne from 'sections/video-one';
 import CallToAction from 'sections/call-to-action';
 import BoostAgencies from 'sections/boost-agencies';
 
@@ -20,14 +20,14 @@ export default function IndexPage() {
   return (
     <StickyProvider>
       <Layout>
-        <SEO title="Startup Landing 006" />
+        <SEO title="MAHA Tech" />
         <Banner />
         <Services />
         <BoostAgencies />
         {/* <VideoOne /> */}
-        <Testimonials />
         <CustomerSupport />
-        <Feature />
+        {/* <Testimonials /> */}
+        {/* <Feature /> */}
         <CallToAction />
       </Layout>
     </StickyProvider>

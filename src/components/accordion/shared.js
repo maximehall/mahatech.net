@@ -7,7 +7,7 @@ export const AccordionButton = ({ children, ...rest }) => (
     css={{
       display: 'flex',
       justifyContent: 'space-between',
-      color: '#0F2137',
+      color: '#202020',
       cursor: 'pointer',
       border: 'none',
       ':focus': {

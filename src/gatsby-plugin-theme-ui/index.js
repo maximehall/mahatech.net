@@ -11,7 +11,7 @@ export default {
     border_color: '#E9EDF5', // border color
     primary: '#8D448B', // primary button and link color
     secondary: '#793677', // secondary color - can be used for hover states
-    black: '#0F2137', // black color
+    black: '#202020', // black color
     gray: '#F8FAFC',
     muted: '#7B8188', // muted color
     accent: '#609', // a contrast color for emphasizing UI
@@ -85,7 +85,7 @@ export default {
       fontWeight: 'bold',
       fontSize: 18,
       lineHeight: '30px',
-      color: '#0F2137',
+      color: '#202020',
     },
     heroSecondary: {
       color: 'text_secondary',
@@ -99,7 +99,7 @@ export default {
       fontWeight: '500',
       lineHeight: '60px',
       letterSpacing: '-1.5px',
-      color: '#0F2137',
+      color: '#202020',
     },
     muted: {
       lineHeight: '26px',
