@@ -12,20 +12,20 @@ import featureImage3 from 'assets/tutorial-1-3.png';
 const FeatureData = [
   {
     image: featureImage1,
-    title: 'How to work with prototype design with adobe xd featuring tools',
+    title: 'Frontend & Backend explained',
     comments: '22 Comments',
     path: '/',
   },
   {
     image: featureImage2,
-    title: 'Create multiple artboard by using figma prototyping development',
+    title: 'IAAS, PAAS, OR SAAS, the Pizza as a Service Analogy',
     comments: '15 Comments',
     path: '/',
   },
   {
     image: featureImage3,
     title:
-      'Convert your web layout theming easily with sketch zeplin extension',
+      'What is Gatsby? GatsbyJS is a React-based, GraphQL powered, static site generator',
     comments: '12 Comments',
     path: '/',
   },
